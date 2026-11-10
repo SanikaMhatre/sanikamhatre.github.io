@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="400" viewBox="0 0 320 400" fill="none">
+  <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#cbd5c5" stroke-width=".6"/></pattern></defs>
+  <path fill="#e5ebe0" d="M0 0h320v400H0z"/>
+  <path fill="url(#grid)" d="M0 0h320v400H0z"/>
+  <path d="M28 52V28h24m216 0h24v24M28 348v24h24m216 0h24v-24" stroke="#82947a" stroke-width="1.5"/>
+  <text x="160" y="229" text-anchor="middle" font-family="Georgia,serif" font-size="90" fill="#46614e">SM<tspan fill="#bc432c">.</tspan></text>
+  <path d="M132 265h56" stroke="#82947a"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" fill="none">
+  <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".8" fill="#cec4b8"/></pattern></defs>
+  <path fill="#e8e4de" d="M0 0h720v440H0z"/><path fill="url(#dots)" d="M0 0h720v440H0z"/>
+  <text x="45" y="103" font-family="monospace" font-size="9" fill="#887564">HINDI / ENGLISH INPUT</text>
+  <rect x="45" y="124" width="630" height="64" rx="3" fill="#f8f6f2" stroke="#baac9c"/>
+  <g stroke="#a2664e" stroke-width="2" stroke-linecap="round"><path d="M67 149v15m7-24v34m7-27v20m7-32v44m7-32v20m7-24v28m7-22v16"/></g>
+  <text x="133" y="162" font-family="monospace" font-size="13" fill="#473f37">kal shaam 5 baje haircut</text>
+  <g stroke="#a99887" stroke-width="1.2"><path d="M360 188v34H125v25m235-25v25m0-25h235v25M213 277h59m-5-4 5 4-5 4M448 277h59m-5-4 5 4-5 4"/></g>
+  <rect x="45" y="247" width="168" height="64" rx="3" fill="#f8f6f2" stroke="#baac9c"/><rect x="277" y="247" width="171" height="64" rx="3" fill="#f8f6f2" stroke="#baac9c"/><rect x="513" y="247" width="162" height="64" rx="3" fill="#465b4a"/>
+  <g font-family="monospace" text-anchor="middle"><text x="129" y="272" font-size="9" fill="#887564">MCP TOOLS</text><text x="129" y="294" font-size="12" fill="#473f37">Find a slot</text><text x="362" y="272" font-size="9" fill="#887564">2-MINUTE HOLD</text><text x="362" y="294" font-size="12" fill="#473f37">Read back</text><text x="594" y="272" font-size="9" fill="#c3d0be">TRANSACTION</text><text x="594" y="294" font-size="12" fill="#f3f5ef">Confirm once</text></g>
+  <path d="M45 347h630" stroke="#cec4b8"/>
+  <g font-family="monospace" font-size="9" fill="#887564"><text x="45" y="375">RULE-BASED PARSING</text><text x="290" y="375">SAFE RETRIES</text><text x="513" y="375">NO DOUBLE-BOOKING</text></g>
+</svg>

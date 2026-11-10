@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" fill="none">
+  <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#c9d4c3" stroke-width=".6"/></pattern></defs>
+  <path fill="#e1e8dc" d="M0 0h720v440H0z"/><path fill="url(#grid)" opacity=".55" d="M0 0h720v440H0z"/>
+  <g font-family="monospace" font-size="10" fill="#52634d"><text x="45" y="100">INPUT</text><text x="270" y="100">FEATURE EXTRACTION</text><text x="555" y="100">PREDICTION</text></g>
+  <rect x="45" y="120" width="136" height="162" rx="3" fill="#293b30"/>
+  <ellipse cx="113" cy="200" rx="57" ry="67" fill="#72816e"/><ellipse cx="113" cy="201" rx="48" ry="57" fill="#8a9783"/><ellipse cx="113" cy="211" rx="12" ry="18" fill="#c4cbb8"/>
+  <path d="M84 178c-19 0-22 35-8 47 11 9 23 0 19-9-9-13 9-35-11-38Z" fill="#4d6352"/><path d="M144 178c19 0 22 35 8 47-11 9-23 0-19-9 9-13-9-35 11-38Z" fill="#4d6352"/><path d="M143 209c6-6 13-1 11 6-1 8-11 9-15 3-2-3 1-7 4-9Z" fill="#bd5a40"/>
+  <g stroke="#6e8366" stroke-width="1.2"><path d="M192 202h44m-5-4 5 4-5 4M481 202h47m-5-4 5 4-5 4"/><path d="m284 178 40 31 39 30 39-30 39-31M284 178h157M324 209h78M284 178l79 61 78-61"/></g>
+  <g fill="#f2f5ee" stroke="#6f8666"><rect x="265" y="151" width="36" height="54" rx="2"/><rect x="306" y="183" width="36" height="54" rx="2"/><rect x="345" y="214" width="36" height="54" rx="2"/><rect x="384" y="183" width="36" height="54" rx="2"/><rect x="423" y="151" width="36" height="54" rx="2"/></g>
+  <g stroke="#a6b69b"><path d="M273 163h20m-20 8h20m-20 8h20m-20 8h20M314 195h20m-20 8h20m-20 8h20M353 226h20m-20 8h20m-20 8h20M392 195h20m-20 8h20m-20 8h20M431 163h20m-20 8h20m-20 8h20m-20 8h20"/></g>
+  <rect x="540" y="120" width="136" height="162" rx="3" fill="#293b30"/><path d="M580 169c-24 0-29 46-11 62 14 12 30 0 25-12-12-17 12-46-14-50ZM635 169c24 0 29 46 11 62-14 12-30 0-25-12 12-17-12-46 14-50Z" fill="#96b486"/><path d="M636 210c8-8 17-2 14 7-1 11-14 12-19 4-3-4 1-9 5-11Z" fill="#dc7654"/>
+  <g font-family="monospace" font-size="9" fill="#52634d" text-anchor="middle"><text x="113" y="305">MEDICAL IMAGE</text><text x="362" y="305">EFFICIENTNET-B1 + U-NET++</text><text x="608" y="305">TUMOR MASK</text></g>
+  <path d="M45 339h631" stroke="#c1ceba"/><circle cx="52" cy="364" r="3" fill="#dc7654"/><text x="65" y="368" fill="#52634d" font-family="monospace" font-size="10">SMALL LESIONS. PRECISE BOUNDARIES.</text><text x="676" y="368" text-anchor="end" fill="#52634d" font-family="monospace" font-size="9">ARCHITECTURE STUDY</text>
+</svg>

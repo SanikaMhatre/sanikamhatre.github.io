@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" fill="none">
+  <defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#c9d4c3" stroke-width=".6"/></pattern></defs>
+  <path fill="#e1e8dc" d="M0 0h720v440H0z"/><path fill="url(#grid)" opacity=".55" d="M0 0h720v440H0z"/>
+  <g font-family="monospace" font-size="10" fill="#52634d"><text x="45" y="100">DRAWING</text><text x="280" y="100">STRUCTURED GRAPH</text><text x="548" y="100">RULE ENGINE</text></g>
+  <rect x="45" y="123" width="153" height="156" rx="3" fill="#f2f5ee" stroke="#9baa91"/>
+  <g stroke="#6e8366" stroke-width="1.5"><path d="M60 210h25m34 0h25m25 0h14M101 193v-30h56v47M157 239v-29"/><circle cx="102" cy="210" r="17"/><path d="m94 220 20-10-20-10v20Zm50-19 25 18v-18l-25 18v-18Z"/></g>
+  <g font-family="monospace" font-size="8" fill="#52634d"><text x="85" y="247">P-101</text><text x="141" y="153">V-102</text></g>
+  <g stroke="#6e8366" stroke-width="1.2"><path d="M211 201h36m-5-4 5 4-5 4M473 201h38m-5-4 5 4-5 4M299 201h63m0 0 61-49m-61 49 61 49"/></g>
+  <g fill="#f2f5ee" stroke="#6f8666"><circle cx="291" cy="201" r="21"/><circle cx="363" cy="201" r="14"/><circle cx="429" cy="147" r="21"/><circle cx="429" cy="255" r="21"/></g>
+  <g font-family="monospace" font-size="8" fill="#52634d" text-anchor="middle"><text x="291" y="204">PUMP</text><text x="429" y="150">VALVE</text><text x="429" y="258">VESSEL</text><text x="363" y="234">NET</text></g>
+  <rect x="529" y="123" width="147" height="156" rx="3" fill="#293b30"/>
+  <g font-family="monospace" font-size="9" fill="#d5e0cb"><text x="546" y="155">GRAPH + YAML</text><text x="546" y="186">trace connections</text><text x="546" y="209">check conditions</text><text x="546" y="232">flag violations</text></g>
+  <path d="M45 320h631" stroke="#c1ceba"/>
+  <g font-family="monospace" font-size="9" fill="#52634d"><text x="45" y="346">SAM + MUSE</text><text x="280" y="346">VERIFY UNCERTAINTY</text><text x="548" y="346">HUMAN REVIEW</text></g>
+  <circle cx="51" cy="374" r="3" fill="#bd5a40"/><text x="64" y="378" font-family="monospace" font-size="10" fill="#52634d">MODELS PROPOSE. DETERMINISTIC CODE DECIDES.</text>
+</svg>
